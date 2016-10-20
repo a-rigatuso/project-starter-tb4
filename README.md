@@ -3,7 +3,7 @@
 This repository serves as a starting point for website-projects based on self-compiled Bootstrap 4.  
 All credits for Bootstrap belong to it's [respective owners](https://github.com/twbs/bootstrap/tree/v4-dev).
 
-## What' included
+## What's included
 
 ### Bootstrap related
 - Setup to compile a custom build of bootstrap's Sass
@@ -14,7 +14,7 @@ All credits for Bootstrap belong to it's [respective owners](https://github.com/
 - Setup for compiling via Compass
 
 ## How to use
-1. Download or clone the repository to yout project directory
+1. Download or clone the repository to your project directory
 2. Use terminal to navigate to your project directory `$ cd /path/to/your/project/`
 3. Watch files changes in scss-files via `$ compass watch` or compile once via `$ compass compile`
 
