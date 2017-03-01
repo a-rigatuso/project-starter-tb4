@@ -1,53 +1,53 @@
-// /*!
-//  * Bootstrap v4.0.0-alpha.4 (http://getbootstrap.com)
-//  * Copyright 2011-2016 The Bootstrap Authors
-//  * Copyright 2011-2016 Twitter, Inc.
-//  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
-//  */
-
-// // Core variables and mixins
+///*!
+// * Bootstrap v4.0.0-alpha.6 (https://getbootstrap.com)
+// * Copyright 2011-2017 The Bootstrap Authors
+// * Copyright 2011-2017 Twitter, Inc.
+// * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+// */
+//
+//// Core variables and mixins
 @import "bootstrap-core-files/variables";
 @import "bootstrap-core-files/mixins";
-
-// // Reset and dependencies
+//
+//// Reset and dependencies
 @import "bootstrap-core-files/normalize";
-// @import "bootstrap-core-files/print";
-
-// // Core CSS
+//@import "bootstrap-core-files/print";
+//
+//// Core CSS
 @import "bootstrap-core-files/reboot";
-// @import "bootstrap-core-files/type";
-// @import "bootstrap-core-files/images";
-// @import "bootstrap-core-files/code";
+//@import "bootstrap-core-files/type";
+//@import "bootstrap-core-files/images";
+//@import "bootstrap-core-files/code";
 @import "bootstrap-core-files/grid";
-// @import "bootstrap-core-files/tables";
-// @import "bootstrap-core-files/forms";
-// @import "bootstrap-core-files/buttons";
-
-// // Components
-// @import "bootstrap-core-files/animation";
-// @import "bootstrap-core-files/dropdown";
-// @import "bootstrap-core-files/button-group";
-// @import "bootstrap-core-files/input-group";
-// @import "bootstrap-core-files/custom-forms";
-// @import "bootstrap-core-files/nav";
-// @import "bootstrap-core-files/navbar";
-// @import "bootstrap-core-files/card";
-// @import "bootstrap-core-files/breadcrumb";
-// @import "bootstrap-core-files/pagination";
-// @import "bootstrap-core-files/tags";
-// @import "bootstrap-core-files/jumbotron";
-// @import "bootstrap-core-files/alert";
-// @import "bootstrap-core-files/progress";
-// @import "bootstrap-core-files/media";
-// @import "bootstrap-core-files/list-group";
-// @import "bootstrap-core-files/responsive-embed";
-// @import "bootstrap-core-files/close";
-
-// // Components w/ JavaScript
-// @import "bootstrap-core-files/modal";
-// @import "bootstrap-core-files/tooltip";
-// @import "bootstrap-core-files/popover";
-// @import "bootstrap-core-files/carousel";
-
-// // Utility classes
-// @import "bootstrap-core-files/utilities";
+//@import "bootstrap-core-files/tables";
+//@import "bootstrap-core-files/forms";
+//@import "bootstrap-core-files/buttons";
+//
+//// Components
+//@import "bootstrap-core-files/transitions";
+//@import "bootstrap-core-files/dropdown";
+//@import "bootstrap-core-files/button-group";
+//@import "bootstrap-core-files/input-group";
+//@import "bootstrap-core-files/custom-forms";
+//@import "bootstrap-core-files/nav";
+//@import "bootstrap-core-files/navbar";
+//@import "bootstrap-core-files/card";
+//@import "bootstrap-core-files/breadcrumb";
+//@import "bootstrap-core-files/pagination";
+//@import "bootstrap-core-files/badge";
+//@import "bootstrap-core-files/jumbotron";
+//@import "bootstrap-core-files/alert";
+//@import "bootstrap-core-files/progress";
+//@import "bootstrap-core-files/media";
+//@import "bootstrap-core-files/list-group";
+//@import "bootstrap-core-files/responsive-embed";
+//@import "bootstrap-core-files/close";
+//
+//// Components w/ JavaScript
+//@import "bootstrap-core-files/modal";
+//@import "bootstrap-core-files/tooltip";
+//@import "bootstrap-core-files/popover";
+//@import "bootstrap-core-files/carousel";
+//
+//// Utility classes
+//@import "bootstrap-core-files/utilities";
